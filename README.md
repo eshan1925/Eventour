@@ -23,12 +23,12 @@
 
 ## Structure of the App:-
 1️⃣ **App Files**
-    * **lib:** This folder contains code for main file, various other component screens like Home screen, Login Screen, and some other model files for connectivity with GCloud.
-    * **pubspec.yaml:** This file contains various dependencies required for Flutter project.
+        * **lib:** This folder contains code for main file, various other component screens like Home screen, Login Screen, and some other model files for connectivity with GCloud.
+        * **pubspec.yaml:** This file contains various dependencies required for Flutter project.
 
 2️⃣ **Web Files**
-    * **src:** This folder contains files required for adding design and functionality to website.
-    * **package.json:** This files includes the dependencies requied for the website
+        * **src:** This folder contains files required for adding design and functionality to website.
+        * **package.json:** This files includes the dependencies requied for the website
 
 ## **Features**
 
