@@ -1,9 +1,18 @@
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
 .aboutPage{
     display:flex;
     flex-direction:column;
+    width:100%;
     align-items:center;
     justify-content:center;
     background-color:black;
     color: white;
+    padding-right: 0;
+    font-family: "Poppins", sans-serif;
 
 }

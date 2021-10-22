@@ -5,11 +5,6 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 
 function About() {
-  let [desc, setDesc] = useState("");
-  let [title, setTitle] = useState("");
-  let [ftImgUrl, setFtImgUrl] = useState("");
-  let [lLink, setLLink] = useState("");
-  let [gLink, setGLink] = useState("");
   const [stuff, setStuff] = useState(null);
 
   useEffect(() => {
@@ -19,11 +14,6 @@ function About() {
       .then((response) => response.json())
 
       .then((data) => {
-        // setDesc(data.stories.content.desc);
-        // setTitle(data.stories.content.name);
-        // setFtImgUrl(data.stories.content.image.filename)
-        // setLLink(data.stories.content.L_btn.url)
-        // setGLink(data.stories.content.G_btn.url)
         setStuff(data.stories);
       });
   }, []);
@@ -32,10 +22,10 @@ function About() {
   }, []);
   return (
     <div className={styles.aboutPage}>
-      <h1>About Us</h1>
+      <h1 style={{color: "#40c4ff"}}>About Us</h1>
       {stuff &&
         stuff.map((story, id) => {
-          if (id % 2 == 0) {
+          if (id % 2 === 0) {
             return (
               <div data-aos="fade-right">
                 <AboutDev
@@ -63,11 +53,6 @@ function About() {
             );
           }
         })}
-
-      {/* <AboutDev
-        name={title}
-        description={desc} imgURL={ftImgUrl} LinkedIn_Link={lLink} Github_Link={gLink}
-      /> */}
     </div>
   );
 }

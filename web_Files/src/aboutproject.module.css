@@ -66,8 +66,8 @@
   font-weight: bold;
   cursor: pointer;
   text-decoration: none;
-  border-bottom: 6px solid #acacac;
-  background-color: rgb(110,159,48);
+  border-bottom: 6px solid #e7e7e7;
+  background-color: rgb(53,134,49);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .btn:hover{

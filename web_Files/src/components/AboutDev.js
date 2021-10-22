@@ -20,11 +20,11 @@ function AboutDev({
         <h2>{name}</h2>
         <p>{description}</p>
         <div className="links">
-          <a href={LinkedIn_Link} className="l-btn" target="_blank">
+          <a href={LinkedIn_Link} className="l-btn" target="_blank" rel="noreferrer">
             Connect with him on
             <FaLinkedinIn />
           </a>
-          <a href={Github_Link} className="g-btn" target="_blank">
+          <a href={Github_Link} className="g-btn" target="_blank" rel="noreferrer">
             Follow him on
             <BsGithub />
           </a>
