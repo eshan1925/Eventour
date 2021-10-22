@@ -12,7 +12,7 @@
 
 >  There is no market leading application that provides all the services required for a hustling person trying to conduct an event in 5 simple steps, we built this application to bring together the customers and the companies, increase market sales reach and interaction, also drastically decreases the time and effort of an induvidual put for conducting and organising an event.
 
-####What problem does it solve?
+#### What problem does it solve?
 >- Decreased offline sales of companies  
 >- Reduced oppurtunity 
 >- High demanding time, money and energy and effort of customers 
