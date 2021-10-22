@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.random">
+    package="com.example.eventour">
    <application
-        android:label="random"
+        android:label="Eventour"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
