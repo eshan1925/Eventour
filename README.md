@@ -10,7 +10,15 @@
 
 >There is always one market leading application which stays on top of people's head that satisfies all the needs in one go, incase of food delivery ZOMATO holds the cup and for cab services OLA makes it way to the top. People tend to comeback to these applications becuase the services give top notch supply for their demand.
 
-> **Eventour** provides all the services required for a hustling person trying to conduct an event in 5 simple steps, there is no market leading application that brings together the customers and the companies in one place. This app drastically decreases the time and effort of an induvidual that he/she has to put for conducting an event and this also increases the sales and exposure of the companies. 
+>  There is no market leading application that provides all the services required for a hustling person trying to conduct an event in 5 simple steps, we built this application to bring together the customers and the companies, increase market sales reach and interaction, also drastically decreases the time and effort of an induvidual put for conducting and organising an event.
+
+####What problem does it solve?
+>- Decreased offline sales of companies  
+>- Reduced oppurtunity 
+>- High demanding time, money and energy and effort of customers 
+>- No platform for customers and companies to directly interact
+>- Collaboration within the induvidual companies 
+
 
 ## Structure of the App:-
 1. **App Files**
