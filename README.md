@@ -1,6 +1,6 @@
 # <div align=center>🌟Eventour🌟</div>
 ---
-###**<p align="center">The GOTO event management app.</p>**
+### **<p align="center">The GOTO event management app.</p>**
 
 
 #### What was our motivation?
