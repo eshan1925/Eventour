@@ -22,7 +22,7 @@ class _SummaryState extends State<Summary> {
   void initState() {
     twilioFlutter = TwilioFlutter(
         accountSid: 'ACd9ad6b8cdf8f81c2c96559f891bd5378',
-        authToken: 'ff88b69d5074ae3285785b6824ec5c8d',
+        authToken: '<MY_AUTH_TOKEN>',
         twilioNumber: '+12183095832');
     super.initState();
   }
