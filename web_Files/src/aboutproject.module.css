@@ -1,0 +1,77 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  /* align-items:center; */
+  justify-content: center;
+  background-color: #323233;
+  color: white;
+  padding-top: 1rem;
+  font-family: 'Poppins', sans-serif;
+}
+.introNlogo {
+  margin-left: 2rem;
+}
+.introNlogo p {
+  font-size: 3rem;
+  color: #d1caf8;
+}
+.screen1 {
+  /* margin: 1rem; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.step {
+  /* margin: 2rem; */
+  margin: 0 4rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+  /* width: 1000px; */
+}
+.step img {
+  width: 200px;
+}
+.stepContent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  /* height: 50vh; */
+}
+.stepContent h1 {
+  margin-top: 0;
+  font-size: 6rem;
+  color:#40c4ff;
+}
+.stepContent p {
+  font-size: 3rem;
+}
+.btn {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  /* display: flex; */
+  width:10rem;
+  /* align-items: center;
+  justify-content: space-between; */
+  border-radius: 30px;
+  white-space: nowrap;
+  padding: 10px 20px;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  outline: none;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  border-bottom: 6px solid #acacac;
+  background-color: rgb(110,159,48);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn:hover{
+  top:18px;
+  border-bottom: 4px solid #acacac;
+
+}
