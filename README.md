@@ -1,2 +1,2 @@
 # Eventour
-An event management system.
+The one and only event management system.
