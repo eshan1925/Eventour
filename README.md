@@ -1,6 +1,7 @@
 # <div align=center>🌟Eventour🌟</div>
 ---
 ![EVENTOUR](./Images/Eventour.jpg)
+
 ### **<p align="center">📌 The GOTO event management app.</p>**
 
 
@@ -43,6 +44,8 @@
 3️⃣ Integrating **Storyblok** *content management* API to fetch data for our website.<br><br>
 4️⃣  Used **Google Cloud** service in our application for enabling the google sheets API and generating the credentials <br><br>
 5️⃣ Using Google sheets as database to store and fetch the data via Google Cloud.<br>
+
+
 
 
 
