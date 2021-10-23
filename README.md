@@ -3,7 +3,7 @@
 
 <div align=center><img src="https://user-images.githubusercontent.com/74864004/138554391-54b7a33e-d564-4f1b-8053-007581e4ec4c.png" height=350px wifdth = 700px></div>
 
-### **<p align="center">📌 The GOTO event management app.</p>**
+### **<p align="center">📌 The GOTO Event management app.</p>**
 
 
 #### ⭐ What was our motivation?
@@ -46,7 +46,6 @@ root
 |
 └──  README.MD(You are HERE!!!📌)
 ```
-
 1. **App Files**
     * `lib`: This folder contains code for main file, various other component screens like Home screen, Login Screen, and some other model files for connectivity with GCloud.
     * `pubspec.yaml`: This file contains various dependencies required for Flutter project.
