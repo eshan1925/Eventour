@@ -1,6 +1,7 @@
 # <div align=center>🌟Eventour🌟</div>
 ---
-![image](https://user-images.githubusercontent.com/74864004/138554391-54b7a33e-d564-4f1b-8053-007581e4ec4c.png)
+
+<div align=center><img src="https://user-images.githubusercontent.com/74864004/138554391-54b7a33e-d564-4f1b-8053-007581e4ec4c.png" height=350px wifdth = 700px></div>
 
 ### **<p align="center">📌 The GOTO event management app.</p>**
 
@@ -46,29 +47,10 @@
 5️⃣ Using Google sheets as database to store and fetch the data via Google Cloud.<br>
 
 ## Sponsor's Technologies Used 🤩
-<span >
-<a href="url"><img src="https://ps.w.org/sawo-labs/assets/icon-256x256.png?rev=2582832" height="auto" width="65" style="border-radius:50%"></a>
-</span>&nbsp;
-<span>
-<a href="url"><img src="https://avatars.githubusercontent.com/u/13880908?s=280&v=4" height="65" width="65" style="border-radius:50%"></a>
-</span>
-&nbsp;
-<span>
-<a href="url"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZr5oR6h7RMxYVQGF0PURdPBpT6PfErX5xRrtZxPWPqKsx4BGm9oIPaze5_1d-MaDPiwY&usqp=CAU" height="65" width="65" style="border-radius:50%"></a>
-</span>&nbsp;
-<span>
-<a href="url"><img src="https://pbs.twimg.com/profile_images/748571787584221186/mw_08wQb_400x400.jpg" height="65" width="65" style="border-radius:50%"></a>
-</span>
 
-
-
-
-
-
-
-
-
-
+| <img src="https://user-images.githubusercontent.com/78701779/138561214-b25358c5-44d1-488a-a3e2-cc8bfdd6a11a.png" height=120px widht=200px > | <img src="https://user-images.githubusercontent.com/78701779/138561257-d5c24941-80b4-4f5f-87cb-cd5fb9f19a14.png" height=150px widht=230px > |
+| --- | --- |
+| <img src="https://user-images.githubusercontent.com/78701779/138561317-6255ec87-c665-4d89-8b0b-d203af5ebfe3.png" height=120px widht=200px > | <img src="https://user-images.githubusercontent.com/78701779/138561352-49eab923-3ad7-4dda-b673-7ca6a4b99494.png" height=120px widht=200px > |
 
 
 
