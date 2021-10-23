@@ -40,8 +40,8 @@
 1️⃣ Implementing **SAWO Labs** API for User Signup-authentication. <br><br>
 2️⃣ We used **Twilio**  for sending the confirmation of the order to the user and the business associate through SMS.<br><br>
 3️⃣ Integrating **Storyblok** *content management* API to fetch data for our website.<br><br>
-4️⃣  Used **Google Cloud** service in our application for enabling the google sheets API and generating the credentials       ( json key ) to access Google sheets.<br>
-5️⃣ Using Google sheets as database to store and fetch the data.<br>
+4️⃣  Used **Google Cloud** service in our application for enabling the google sheets API and generating the credentials <br><br>
+5️⃣ Using Google sheets as database to store and fetch the data via Google Cloud.<br>
 
 
 
