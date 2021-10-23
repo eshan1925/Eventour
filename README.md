@@ -29,9 +29,7 @@
 >- User friendly platform for increased interaction between customers and companies.
 >- Increased collaboration within companies for integrated events.   
 
-
-
-## Structure of the App
+## Structure of the Repository
 1. **App Files**
     * `lib`: This folder contains code for main file, various other component screens like Home screen, Login Screen, and some other model files for connectivity with GCloud.
     * `pubspec.yaml`: This file contains various dependencies required for Flutter project.
@@ -43,7 +41,7 @@
 1️⃣ Implementing **SAWO Labs** API for User Signup-authentication. <br><br>
 2️⃣ We used **Twilio**  for sending the confirmation of the order to the user and the business associate through SMS.<br><br>
 3️⃣ Integrating **Storyblok** *content management* API to fetch data for our website.<br><br>
-4️⃣  Used **Google Cloud** service in our application for enabling the google sheets API and generating the credentials <br><br>
+4️⃣ Used **Google Cloud** service in our application for enabling the google sheets API and generating the credentials <br><br>
 5️⃣ Using Google sheets as database to store and fetch the data via Google Cloud.<br>
 
 ## Sponsor's Technologies Used 🤩
@@ -52,5 +50,12 @@
 | --- | --- |
 | <img src="https://user-images.githubusercontent.com/78701779/138561317-6255ec87-c665-4d89-8b0b-d203af5ebfe3.png" height=120px widht=200px > | <img src="https://user-images.githubusercontent.com/78701779/138561352-49eab923-3ad7-4dda-b673-7ca6a4b99494.png" height=120px widht=200px > |
 
+## A Glimpse of The App 😎
 
+## A Glimpse of the Web-Site 👩‍💻
 
+## Special Thanks to these People💝
+
+<a href="https://github.com/eshan1925/Eventour/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eshan1925/Eventour" />
+</a>
