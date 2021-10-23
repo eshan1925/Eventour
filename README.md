@@ -26,16 +26,9 @@
 >- User friendly platform for increased interaction between customers and companies.
 >- Increased collaboration within companies for integrated events.   
 
-#### ⭐ What did we learn?
->- Implementing **SAWO Labs** API for User Signup-authentication.
->- We used **Twilio**  for sending the confirmation of the order to the user and the business associate through SMS.
->- Integrating **Storyblok** *content management* API to fetch data for our website.
->- Used **Google Cloud** service in our application for enabling the google sheets API and generating the credentials( json key ) to access Google sheets.
->- Using Google sheets as database to store and fetch the data.
->- Problem solving and time management.
 
 
-## Structure of the App:-
+## Structure of the App
 1. **App Files**
     * `lib`: This folder contains code for main file, various other component screens like Home screen, Login Screen, and some other model files for connectivity with GCloud.
     * `pubspec.yaml`: This file contains various dependencies required for Flutter project.
@@ -43,7 +36,13 @@
     * `src`: This folder contains files required for adding design and functionality to website.
     * `package.json`: This files includes the dependencies requied for the website.
 
-## **Features**
+##  Features of the App
+1️⃣ Implementing **SAWO Labs** API for User Signup-authentication.
+2️⃣ We used **Twilio**  for sending the confirmation of the order to the user and the business associate through SMS.
+3️⃣ Integrating **Storyblok** *content management* API to fetch data for our website.
+4️⃣  Used **Google Cloud** service in our application for enabling the google sheets API and generating the credentials( json key ) to access Google sheets.
+5️⃣ Using Google sheets as database to store and fetch the data.
+
 
 
 
