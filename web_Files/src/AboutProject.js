@@ -11,6 +11,7 @@ import step3 from "./assets/step3.png";
 import step4 from "./assets/step4.png";
 import step5 from "./assets/step5.png";
 import step6 from "./assets/step6.png";
+import { Link } from "react-router-dom";
 
 import { FiDownload } from "react-icons/fi";
 
@@ -20,6 +21,36 @@ function AboutProject() {
   }, []);
   return (
     <div className={styles.page}>
+      <div className={styles.buttonGrp}>
+        <a
+          className={styles.btn}
+          href="https://drive.google.com/uc?id=1LiHCCd25rFQzkgK-F5_bZFVq6UyVr6DN&export=download"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "space-between",
+            }}
+          >
+            Download the app
+            <FiDownload />
+          </div>
+        </a>
+        <Link to="/us" className={styles.Abtn}>
+        <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "space-between",
+            }}
+          >
+            About Us
+          </div>
+        </Link>
+      </div>
       <div className={styles.introNlogo}>
         <p>Introducing</p>
         <img src={logo} alt="" width="750px" />
@@ -82,18 +113,6 @@ function AboutProject() {
         </div>
         <img src={step6} alt="step6" />
       </div>
-
-      <a
-        className={styles.btn}
-        href="https://drive.google.com/uc?id=1LiHCCd25rFQzkgK-F5_bZFVq6UyVr6DN&export=download"
-        rel="noreferrer"
-        target="_blank"
-      >
-        <div style={{display: "flex", alignItems: "center", justifyContent: "space-between"}}>
-          Download the app
-          <FiDownload />
-        </div>
-      </a>
     </div>
   );
 }
