@@ -45,9 +45,26 @@
 4️⃣  Used **Google Cloud** service in our application for enabling the google sheets API and generating the credentials <br><br>
 5️⃣ Using Google sheets as database to store and fetch the data via Google Cloud.<br>
 
-<a href="https://github.com/eshan1925/Eventour/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eshan1925/Eventour" />
-</a>
+## Sponsor's Technologies Used 🤩
+<span >
+<a href="url"><img src="https://ps.w.org/sawo-labs/assets/icon-256x256.png?rev=2582832" height="auto" width="65" style="border-radius:50%"></a>
+</span>&nbsp;
+<span>
+<a href="url"><img src="https://avatars.githubusercontent.com/u/13880908?s=280&v=4" height="65" width="65" style="border-radius:50%"></a>
+</span>
+
+<span>
+<a href="url"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZr5oR6h7RMxYVQGF0PURdPBpT6PfErX5xRrtZxPWPqKsx4BGm9oIPaze5_1d-MaDPiwY&usqp=CAU" height="65" width="65" style="border-radius:50%"></a>
+</span>&nbsp;
+<span>
+<a href="url"><img src="https://pbs.twimg.com/profile_images/748571787584221186/mw_08wQb_400x400.jpg" height="65" width="65" style="border-radius:50%"></a>
+</span>
+
+
+
+
+
+
 
 
 
