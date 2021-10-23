@@ -29,7 +29,24 @@
 >- User friendly platform for increased interaction between customers and companies.
 >- Increased collaboration within companies for integrated events.   
 
-## Structure of the Repository
+## Structure of the Repository 📂
+
+```
+root
+├── App Files
+|    ├── README.MD
+│    ├── Lib (folder)    
+|    └── pubspec.yaml
+|
+│── Web Files
+|    ├── README.MD
+|    ├── Src (folder)
+│    └── package.json
+|
+|
+└──  README.MD(You are HERE!!!📌)
+```
+
 1. **App Files**
     * `lib`: This folder contains code for main file, various other component screens like Home screen, Login Screen, and some other model files for connectivity with GCloud.
     * `pubspec.yaml`: This file contains various dependencies required for Flutter project.
