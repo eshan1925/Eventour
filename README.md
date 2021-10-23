@@ -1,5 +1,6 @@
 # <div align=center>🌟Eventour🌟</div>
 ---
+![image](https://user-images.githubusercontent.com/74864004/138554391-54b7a33e-d564-4f1b-8053-007581e4ec4c.png)
 
 ### **<p align="center">📌 The GOTO event management app.</p>**
 
