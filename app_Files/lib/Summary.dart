@@ -33,6 +33,13 @@ class _SummaryState extends State<Summary> {
         messageBody:
             '\nHey $UserName,\nYou order was Confirmed Successfully.\nOrder Details:\nHotel:$selectedHotelName\nBill:${selectedRates.toString()} \nEvent Name: $userSelectedService\nServices: ${finalSubServices.toString()}\nNumber of People: $finalPeople\nDate: $finalSelectedDay Oct 2021\nTime: $finalSelectedTime\n ExtraServices:${FinalSubServices.toString()}\nThnaks for placing the order😎');
   }
+  
+  void sendSmsToBusiness() async {
+    twilioFlutter.sendSMS(
+        toNumber: '+91 8697103665',
+        messageBody:
+            '\nHey $selectedHotelName,\nCongratulations!!!\nWe received an order for your Hotel\nOrder Details:\nUser:$UserName\nBill:${selectedRates.toString()} \nEvent Name: $userSelectedService\nServices: ${finalSubServices.toString()}\nNumber of People: $finalPeople\nDate: $finalSelectedDay Oct 2021\nTime: $finalSelectedTime\n ExtraServices:${FinalSubServices.toString()}\nPlease follow the required protocols and be ready for the event.🤩');
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -47,6 +54,7 @@ class _SummaryState extends State<Summary> {
           onPressed: () {
             gettingOrders();
             sendSms();
+            sendSmsToBusiness();
             Navigator.push(
               context,
               MaterialPageRoute(
