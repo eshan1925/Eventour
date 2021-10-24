@@ -4,6 +4,7 @@ import 'FadeAnimation.dart';
 import 'service.dart';
 import 'package:flutter/material.dart';
 import 'hotels.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class HomePage extends StatefulWidget {
   static const String id = 'Home_screen';
@@ -416,7 +417,9 @@ class NavDrawer extends StatelessWidget {
           ListTile(
             leading: Icon(Icons.person),
             title: Text('About Us'),
-            onTap: () => {},
+            onTap: () {
+              launch("http://event-tour.co/");
+            },
           ),
         ],
       ),
