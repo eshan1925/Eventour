@@ -68,7 +68,26 @@ root
 
 ## A Glimpse of The App 😎
 
+| ![photo_2021-10-24_09-58-13](https://user-images.githubusercontent.com/78701779/138580766-3079601e-c41e-4ac2-bd20-ac88a4390428.jpg) | ![photo_2021-10-24_09-58-10](https://user-images.githubusercontent.com/78701779/138580779-dce4f891-df76-48ad-9b2b-e92ef9200a90.jpg) | ![photo_2021-10-24_09-58-06](https://user-images.githubusercontent.com/78701779/138580787-1dcbfe4d-8f05-476e-a56d-d2935bb57dfc.jpg) | ![photo_2021-10-24_09-58-02](https://user-images.githubusercontent.com/78701779/138580798-9819bc78-74ff-4414-8377-122557ac300b.jpg) |
+| --- | --- | --- | --- |
+| ![photo_2021-10-24_09-57-58](https://user-images.githubusercontent.com/78701779/138580830-55ef0f80-01ac-4c47-93ff-117f5bd3156b.jpg) | ![photo_2021-10-24_09-53-57](https://user-images.githubusercontent.com/78701779/138580834-63d514b0-1703-4206-9566-2a0a5507bd01.jpg) | ![photo_2021-10-24_09-53-53](https://user-images.githubusercontent.com/78701779/138580837-afaa0ecb-052c-44fe-8a7d-91dc89e4b3b5.jpg) | ![photo_2021-10-24_09-53-48](https://user-images.githubusercontent.com/78701779/138580847-412c81ef-05af-4e81-8bf9-58c00c9e4f49.jpg) |
+| ![photo_2021-10-24_09-53-41](https://user-images.githubusercontent.com/78701779/138580855-0b72be46-80a5-47bc-b7b4-eb708b569083.jpg) | ![photo_2021-10-24_09-53-36](https://user-images.githubusercontent.com/78701779/138580857-3f0beac2-b145-47ae-8f6b-e69d3569e1e1.jpg) | ![photo_2021-10-24_09-53-12](https://user-images.githubusercontent.com/78701779/138580862-c02ad97f-4f21-4fad-9e68-3fb6aa15d067.jpg) | |
+
+### App's Database-:
+ #### Orders Records-:
+ ![image](https://user-images.githubusercontent.com/78701779/138580901-e1656a1e-f154-46e2-b27e-d2f0093e2358.png)
+ #### User Login Records-:
+![image](https://user-images.githubusercontent.com/78701779/138580921-08afd290-caf7-4b28-8c9d-9c4b750b0201.png)
+#### Hotel's Database-:
+![image](https://user-images.githubusercontent.com/78701779/138580941-3037071f-00b4-4b51-b91b-f3f1b5687766.png)
+
 ## A Glimpse of the Web-Site 👩‍💻
+![image](https://user-images.githubusercontent.com/78701779/138580961-b4c1e43d-9eb7-4faa-8445-bdb0b3b61ef7.png)
+![image](https://user-images.githubusercontent.com/78701779/138580974-c60459a2-379c-4718-9385-344707101d14.png)
+![image](https://user-images.githubusercontent.com/78701779/138580989-5d909e80-f7cb-4e01-8c4c-9a2fe9bf4346.png)
+![image](https://user-images.githubusercontent.com/78701779/138581019-445f2755-9b54-46b8-9dd5-63c3a6b803c2.png)
+
+## Youtube Video Link 📽️-: 
 
 ## Special Thanks to these People💝
 
