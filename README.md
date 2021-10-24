@@ -58,13 +58,14 @@ root
 2️⃣ We used **Twilio**  for sending the confirmation of the order to the user and the business associate through SMS.<br><br>
 3️⃣ Integrating **Storyblok** *content management* API to fetch data for our website.<br><br>
 4️⃣ Used **Google Cloud** service in our application for enabling the google sheets API and generating the credentials <br><br>
-5️⃣ Using Google sheets as database to store and fetch the data via Google Cloud.<br>
+5️⃣ Used **GoDaddy** for having a new domain and **Netlify** for hosting the website. <br><br>
+6️⃣ Using Google sheets as database to store and fetch the data via Google Cloud.<br>
 
 ## Sponsor's Technologies Used 🤩
 
-| <img src="https://user-images.githubusercontent.com/78701779/138561214-b25358c5-44d1-488a-a3e2-cc8bfdd6a11a.png" height=120px widht=200px > | <img src="https://user-images.githubusercontent.com/78701779/138561257-d5c24941-80b4-4f5f-87cb-cd5fb9f19a14.png" height=150px widht=230px > |
-| --- | --- |
-| <img src="https://user-images.githubusercontent.com/78701779/138561317-6255ec87-c665-4d89-8b0b-d203af5ebfe3.png" height=120px widht=200px > | <img src="https://user-images.githubusercontent.com/78701779/138561352-49eab923-3ad7-4dda-b673-7ca6a4b99494.png" height=120px widht=200px > |
+| <img src="https://user-images.githubusercontent.com/78701779/138561214-b25358c5-44d1-488a-a3e2-cc8bfdd6a11a.png" height=120px widht=200px > | <img src="https://user-images.githubusercontent.com/78701779/138561257-d5c24941-80b4-4f5f-87cb-cd5fb9f19a14.png" height=150px widht=230px > | <img src="https://user-images.githubusercontent.com/78701779/138561317-6255ec87-c665-4d89-8b0b-d203af5ebfe3.png" height=120px widht=200px > |
+| --- | --- | --- |
+| <img src="https://user-images.githubusercontent.com/78701779/138561352-49eab923-3ad7-4dda-b673-7ca6a4b99494.png" height=120px widht=200px > | <img src="https://user-images.githubusercontent.com/78701779/138581479-83bb3bb0-53e9-43cc-95b2-e5580b8b2ace.png" height=120px widht=200px > | <img src="https://user-images.githubusercontent.com/78701779/138581559-5d2bb597-719b-4fce-832a-940f2fb7588c.png" height=100px widht=180px > |
 
 ## A Glimpse of The App 😎
 
