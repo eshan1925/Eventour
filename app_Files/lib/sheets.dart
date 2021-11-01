@@ -6,7 +6,7 @@ class UserSheetsApi {
   {
   "type": "service_account",
   "project_id": "eventour-databse",
-  "private_key_id": "1bc7894138094993f2978db2017ab3f97a38a541",
+  "private_key_id": "<MY PRIVATE KEY ID>",
   "private_key": "-----BEGIN PRIVATE KEY-----\n<MY_PRIVATE_KEY>\n-----END PRIVATE KEY-----\n",
   "client_email": "eventour@eventour-databse.iam.gserviceaccount.com",
   "client_id": "110754051835123115027",
